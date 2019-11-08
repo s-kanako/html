@@ -1,0 +1,27 @@
+
+h1 {
+    color: rebeccapurple;
+}
+table,th,td {
+    border: 1px black solid;
+    width: 420px;
+    height: 100px;
+}
+.normal {
+    color: cadetblue;
+}
+.cellspacing {
+    color: tomato;
+}
+.cellpadding {
+    color: darkslateblue;
+}
+.colspan {
+    color: deeppink;
+}
+.rowspan {
+    color: orange;
+}
+#mixtable {
+    color: teal;
+}

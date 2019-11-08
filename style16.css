@@ -1,0 +1,24 @@
+#first-element {
+    border: 3px solid tomato;
+    width: 230px;
+    position: relative;
+    left: 800px;
+    top: 0;
+    background-color: thistle;
+}
+#second-element {
+    border: 3px solid tomato;
+    width: 280px;
+    position: relative;
+    left: 514px;
+    background-color: teal;
+    bottom: 26px;
+}
+#third-element {
+    border:3px solid tomato;
+    width:300px;
+    position: relative;
+    left: 800px;
+    text-align:center;
+    bottom: 100px;
+}

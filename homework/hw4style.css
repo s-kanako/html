@@ -1,0 +1,32 @@
+.body {
+    background-color: lightpink;
+}
+.inner{
+    width:100%;
+    overflow:hidden;
+    background-color: pink;
+ }
+.responsive {
+    width: 100%;
+    height: 700px;
+}
+h1 {
+    color: magenta;
+}
+.cards {
+    display: flex;
+    position: relative;
+    left: 230px;
+}
+.card {
+    margin-right: 50px;
+}
+.btn-primary {
+    background-color: chocolate;
+}
+
+form {
+    border: magenta 3px solid;
+    width; 500px;
+    background-image: ulr('');
+}

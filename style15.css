@@ -1,0 +1,29 @@
+
+body {
+    background-color: cadetblue;
+}
+.pink {
+    color: pink;
+    font-size: 50px;
+}
+.magenta {
+    color: magenta;
+    text-align: center;
+    
+}
+.coral{
+    color:coral;
+    font-size: 100px;
+    text-align: right;
+}
+#red {
+    color: red;
+}
+.redwoman {
+    width: 150px;
+    height: 200px;
+}
+.pinkwoman {
+    width: 150px;
+    height: 200px;
+}
